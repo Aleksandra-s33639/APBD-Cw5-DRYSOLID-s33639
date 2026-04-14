@@ -8,4 +8,9 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Content Include="LegacyRenewalAppConsumer\LegacyRenewalAppConsumer.csproj" />
+      <Content Include="LegacyRenewalApp\LegacyRenewalApp.csproj" />
+    </ItemGroup>
+
 </Project>
